@@ -1,6 +1,3 @@
-<br />
-<br />
-
 <h3 align="center">
   Comandos <a href="https://git-scm.com/">Git</a> e <a href="https://github.com/">GitHub</a>
 </h3>
